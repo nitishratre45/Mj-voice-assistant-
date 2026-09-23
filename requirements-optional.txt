@@ -1,0 +1,2 @@
+# Optional cloud fallback. MJ works without this package or GEMINI_API_KEY.
+google-genai

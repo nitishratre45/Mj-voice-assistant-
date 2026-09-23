@@ -1,0 +1,10 @@
+sounddevice
+numpy
+faster-whisper
+edge-tts
+pygame
+
+# Active Windows screen-control runtime
+pyautogui
+pytesseract
+Pillow
