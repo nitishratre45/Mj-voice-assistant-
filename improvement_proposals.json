@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-08-25T09:57:32",
+  "version": "3.0.0",
+  "dry_run": true,
+  "proposals": [
+    {
+      "file": "autonomous_v25_14.py",
+      "type": "large_function",
+      "action": "Review the large function for safe extraction into smaller testable functions.",
+      "automatic_edit": false,
+      "status": "proposal_only"
+    },
+    {
+      "file": "autonomous_v25_14_STABLE.py",
+      "type": "large_function",
+      "action": "Review the large function for safe extraction into smaller testable functions.",
+      "automatic_edit": false,
+      "status": "proposal_only"
+    },
+    {
+      "file": "brain.py",
+      "type": "large_function",
+      "action": "Review the large function for safe extraction into smaller testable functions.",
+      "automatic_edit": false,
+      "status": "proposal_only"
+    },
+    {
+      "file": "brain_backup.py",
+      "type": "large_function",
+      "action": "Review the large function for safe extraction into smaller testable functions.",
+      "automatic_edit": false,
+      "status": "proposal_only"
+    },
+    {
+      "file": "brain_backup_before_unified_v2.py",
+      "type": "large_function",
+      "action": "Review the large function for safe extraction into smaller testable functions.",
+      "automatic_edit": false,
+      "status": "proposal_only"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "version": "INTENT_RECOVERY_V1",
+  "timestamp": "2026-08-25T11:40:36",
+  "tests": [
+    {
+      "original": "click",
+      "normalized": "click",
+      "recovered": "click",
+      "intent": "click",
+      "confidence": 0.95,
+      "action": "clarify",
+      "clarification": "Kis par click karun?",
+      "reason": "missing_target"
+    },
+    {
+      "original": "clik",
+      "normalized": "clik",
+      "recovered": "clik",
+      "intent": "click",
+      "confidence": 0.9,
+      "action": "clarify",
+      "clarification": "Kis par click karun?",
+      "reason": "missing_target"
+    },
+    {
+      "original": "clicker",
+      "normalized": "clicker",
+      "recovered": "clicker",
+      "intent": "click",
+      "confidence": 0.9,
+      "action": "clarify",
+      "clarification": "Kis par click karun?",
+      "reason": "missing_target"
+    },
+    {
+      "original": "open",
+      "normalized": "open",
+      "recovered": "open",
+      "intent": "open",
+      "confidence": 0.95,
+      "action": "clarify",
+      "clarification": "Kya open karun?",
+      "reason": "missing_target"
+    },
+    {
+      "original": "search",
+      "normalized": "search",
+      "recovered": "search",
+      "intent": "search",
+      "confidence": 0.95,
+      "action": "clarify",
+      "clarification": "Kya search karun?",
+      "reason": "missing_target"
+    },
+    {
+      "original": "time",
+      "normalized": "time",
+      "recovered": "time",
+      "intent": "time",
+      "confidence": 0.95,
+      "action": "pass_to_intent_engine",
+      "clarification": null,
+      "reason": "accepted"
+    },
+    {
+      "original": "date",
+      "normalized": "date",
+      "recovered": "date",
+      "intent": "date",
+      "confidence": 0.95,
+      "action": "pass_to_intent_engine",
+      "clarification": null,
+      "reason": "accepted"
+    },
+    {
+      "original": "click button",
+      "normalized": "click button",
+      "recovered": "click button",
+      "intent": "click",
+      "confidence": 0.95,
+      "action": "pass_to_intent_engine",
+      "clarification": null,
+      "reason": "accepted"
+    },
+    {
+      "original": "open chrome",
+      "normalized": "open chrome",
+      "recovered": "open chrome",
+      "intent": "open",
+      "confidence": 0.95,
+      "action": "pass_to_intent_engine",
+      "clarification": null,
+      "reason": "accepted"
+    },
+    {
+      "original": "search tilak varma",
+      "normalized": "search tilak varma",
+      "recovered": "search tilak varma",
+      "intent": "search",
+      "confidence": 0.95,
+      "action": "pass_to_intent_engine",
+      "clarification": null,
+      "reason": "accepted"
+    },
+    {
+      "original": "type hello",
+      "normalized": "type hello",
+      "recovered": "type hello",
+      "intent": "type",
+      "confidence": 0.95,
+      "action": "pass_to_intent_engine",
+      "clarification": null,
+      "reason": "accepted"
+    },
+    {
+      "original": "mid",
+      "normalized": "mid",
+      "recovered": "mid",
+      "intent": "unknown",
+      "confidence": 0.0,
+      "action": "clarify",
+      "clarification": "Command clear nahi hai. Kya karna hai batao?",
+      "reason": "unknown_intent"
+    },
+    {
+      "original": "",
+      "normalized": "",
+      "recovered": "",
+      "intent": "unknown",
+      "confidence": 0.0,
+      "action": "clarify",
+      "clarification": "Command samajh nahi aaya. Dobara batao.",
+      "reason": "empty_input"
+    },
+    {
+      "original": "calculator kholo",
+      "normalized": "calculator kholo",
+      "recovered": "calculator kholo",
+      "intent": "unknown",
+      "confidence": 0.0,
+      "action": "clarify",
+      "clarification": "Command clear nahi hai. Kya karna hai batao?",
+      "reason": "unknown_intent"
+    },
+    {
+      "original": "calculator kholo aur notepad kholo",
+      "normalized": "calculator kholo aur notepad kholo",
+      "recovered": "calculator kholo aur notepad kholo",
+      "intent": "unknown",
+      "confidence": 0.0,
+      "action": "clarify",
+      "clarification": "Command clear nahi hai. Kya karna hai batao?",
+      "reason": "unknown_intent"
+    }
+  ],
+  "total": 15,
+  "clarifications": 9,
+  "safe_passes": 6,
+  "source_rewrite": false,
+  "automatic_delete": false,
+  "automatic_merge": false,
+  "automatic_overwrite": false
+}

@@ -1,0 +1,29 @@
+{
+  "version": "V9",
+  "timestamp": "2026-08-25T10:18:05",
+  "candidate": {
+    "file": "autonomous_v25_14.py",
+    "path": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\autonomous_v25_14.py",
+    "function": {
+      "name": "find_best_result",
+      "start": 429,
+      "end": 980,
+      "lines": 552
+    }
+  },
+  "backup": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\data\\self_update_backups\\master_v9\\20260825_101805_158352\\autonomous_v25_14.py",
+  "source_changed": false,
+  "health_before": {
+    "python_files": 103,
+    "broken_files": 0,
+    "healthy": true,
+    "broken": []
+  },
+  "health_after": {
+    "python_files": 103,
+    "broken_files": 0,
+    "healthy": true,
+    "broken": []
+  },
+  "transaction_verified": true
+}

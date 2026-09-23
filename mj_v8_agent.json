@@ -1,0 +1,42 @@
+{
+  "tasks": {},
+  "plans": {
+    "1787322880591": {
+      "id": "1787322880591",
+      "command": "YouTube kholo aur Tilak Varma search karo",
+      "goal": "search",
+      "steps": [
+        {
+          "action": "open_app",
+          "target": "youtube",
+          "status": "completed"
+        },
+        {
+          "action": "search",
+          "target": "karo",
+          "status": "pending"
+        }
+      ],
+      "created": 1787322880.5914485,
+      "status": "planned"
+    }
+  },
+  "context": {
+    "current_task": "1787322880591"
+  },
+  "history": [],
+  "windows": {},
+  "files": {},
+  "browser": {},
+  "safety": {
+    "enabled": true,
+    "confirm_dangerous": true
+  },
+  "stats": {
+    "tasks": 1,
+    "completed": 0,
+    "failed": 0,
+    "retries": 0,
+    "recoveries": 0
+  }
+}

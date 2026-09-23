@@ -1,0 +1,27 @@
+{
+  "version": "V4",
+  "timestamp": "2026-08-25T10:09:04",
+  "target": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\autonomous_v25_14.py",
+  "sha256": "ed558213fe57a45e83f7482356696d1f9263b7cff68cd9c09cc1eadcacd9f0e3",
+  "python_lines": 1456,
+  "largest_function": {
+    "name": "find_best_result",
+    "start": 429,
+    "end": 980,
+    "lines": 552
+  },
+  "safe_block_analysis": {
+    "function": "find_best_result",
+    "function_start": 429,
+    "function_end": 980,
+    "candidate_lines": [
+      867,
+      952,
+      980
+    ],
+    "candidate_count": 3
+  },
+  "backup": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\data\\self_update_backups\\v4_analysis_20260825_100904_691857\\autonomous_v25_14.py",
+  "source_rewritten": false,
+  "status": "ANALYSIS_ONLY"
+}

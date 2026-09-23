@@ -1,0 +1,649 @@
+{
+  "commands": {
+    "youtube kholo": {
+      "count": 2,
+      "first_seen": 1787237561.8046753,
+      "last_seen": 1787396133.6250768,
+      "success_count": 2,
+      "last_result": "Screen command completed.",
+      "variants": {
+        "youtube khol do": 1,
+        "youtube open youtube": 1,
+        "youtube open": 1
+      }
+    },
+    "calculator kholo": {
+      "count": 1,
+      "first_seen": 1787237561.8053987,
+      "last_seen": 1787404676.5606,
+      "success_count": 1,
+      "last_result": "Screen command completed.",
+      "variants": {
+        "open calculator": 3
+      }
+    },
+    "pandu gol": {
+      "count": 1,
+      "first_seen": 1787321112.702339,
+      "last_seen": 1787321112.702339,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "go": {
+      "count": 1,
+      "first_seen": 1787321851.509782,
+      "last_seen": 1787321851.509782,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "mg": {
+      "count": 1,
+      "first_seen": 1787325423.988862,
+      "last_seen": 1787325423.988862,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "tila horma sarjikaro": {
+      "count": 1,
+      "first_seen": 1787332879.7292879,
+      "last_seen": 1787332879.7292879,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "artelui sarma": {
+      "count": 1,
+      "first_seen": 1787332968.6292803,
+      "last_seen": 1787332968.6292803,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "alouim": {
+      "count": 1,
+      "first_seen": 1787386546.3484256,
+      "last_seen": 1787386546.3484256,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "hello hindi": {
+      "count": 1,
+      "first_seen": 1787386566.736793,
+      "last_seen": 1787386566.736793,
+      "success_count": 0,
+      "last_result": "Haan, bolo."
+    },
+    "haluim di": {
+      "count": 1,
+      "first_seen": 1787386610.0104141,
+      "last_seen": 1787386610.0104141,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "hello md": {
+      "count": 3,
+      "first_seen": 1787387024.8796341,
+      "last_seen": 1787387058.285554,
+      "success_count": 0,
+      "last_result": "Haan, bolo."
+    },
+    "hello mz": {
+      "count": 1,
+      "first_seen": 1787387045.286805,
+      "last_seen": 1787387045.286805,
+      "success_count": 0,
+      "last_result": "Haan, bolo."
+    },
+    "is screen par kaha hai": {
+      "count": 1,
+      "first_seen": 1787387629.9459643,
+      "last_seen": 1787387629.9459643,
+      "success_count": 0,
+      "last_result": "'is screen' par click nahi ho paya."
+    },
+    "screen par kadi karo": {
+      "count": 1,
+      "first_seen": 1787387650.4248705,
+      "last_seen": 1787387650.4248705,
+      "success_count": 0,
+      "last_result": "'screen' par click kar diya."
+    },
+    "cut off": {
+      "count": 1,
+      "first_seen": 1787387733.217359,
+      "last_seen": 1787387733.217359,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "desperate decorate": {
+      "count": 1,
+      "first_seen": 1787396041.469923,
+      "last_seen": 1787396041.469923,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "channel": {
+      "count": 1,
+      "first_seen": 1787396094.9976623,
+      "last_seen": 1787396094.9976623,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "hingled on it the nickel is it": {
+      "count": 1,
+      "first_seen": 1787396103.6576877,
+      "last_seen": 1787396103.6576877,
+      "success_count": 0,
+      "last_result": "Haan, bolo."
+    },
+    "open notepad": {
+      "count": 1,
+      "first_seen": 1787396516.3539405,
+      "last_seen": 1787396516.3539405,
+      "success_count": 0,
+      "last_result": "Notepad khol diya."
+    },
+    "let s go": {
+      "count": 1,
+      "first_seen": 1787396530.9509504,
+      "last_seen": 1787396530.9509504,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "telegram": {
+      "count": 1,
+      "first_seen": 1787396547.802212,
+      "last_seen": 1787396547.802212,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "open taping alarm": {
+      "count": 1,
+      "first_seen": 1787396563.235605,
+      "last_seen": 1787396563.235605,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "who are you": {
+      "count": 2,
+      "first_seen": 1787396578.3548992,
+      "last_seen": 1789190240.7663882,
+      "success_count": 0,
+      "last_result": "Main MJ hoon, tumhara personal voice assistant."
+    },
+    "hello": {
+      "count": 2,
+      "first_seen": 1787396589.9079487,
+      "last_seen": 1789190626.3531787,
+      "success_count": 0,
+      "last_result": "Haan, bolo kya karu?"
+    },
+    "oh": {
+      "count": 1,
+      "first_seen": 1787396718.9751236,
+      "last_seen": 1787396718.9751236,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "mute karo": {
+      "count": 1,
+      "first_seen": 1787396750.2341793,
+      "last_seen": 1787396750.2341793,
+      "success_count": 0,
+      "last_result": "Mute kar diya."
+    },
+    "ajjjjjjjjjjj": {
+      "count": 1,
+      "first_seen": 1787396786.0812407,
+      "last_seen": 1787396786.0812407,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "now it s time to check": {
+      "count": 1,
+      "first_seen": 1787396806.2866032,
+      "last_seen": 1787396806.2866032,
+      "success_count": 0,
+      "last_result": "Abhi time 04:36 PM hai."
+    },
+    "go ahead dude": {
+      "count": 1,
+      "first_seen": 1787396818.0361574,
+      "last_seen": 1787396818.0361574,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "say boy": {
+      "count": 1,
+      "first_seen": 1787397085.864436,
+      "last_seen": 1787397085.864436,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "bye bye": {
+      "count": 1,
+      "first_seen": 1787397109.691159,
+      "last_seen": 1787397109.691159,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "see to follow": {
+      "count": 1,
+      "first_seen": 1787397935.916977,
+      "last_seen": 1787397935.916977,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "stating pro": {
+      "count": 1,
+      "first_seen": 1787397957.242055,
+      "last_seen": 1787397957.242055,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "mid": {
+      "count": 1,
+      "first_seen": 1787398011.720668,
+      "last_seen": 1787398011.720668,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "how are you": {
+      "count": 1,
+      "first_seen": 1787398833.869324,
+      "last_seen": 1787398833.869324,
+      "success_count": 0,
+      "last_result": "i am ready"
+    },
+    "open vvescord": {
+      "count": 1,
+      "first_seen": 1787404615.3011887,
+      "last_seen": 1787404615.3011887,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "one filter": {
+      "count": 1,
+      "first_seen": 1787404649.2666292,
+      "last_seen": 1787404649.2666292,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "my voice": {
+      "count": 1,
+      "first_seen": 1787410381.220196,
+      "last_seen": 1787410381.220196,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "artist computer": {
+      "count": 2,
+      "first_seen": 1787632454.5861502,
+      "last_seen": 1787646992.4921827,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "what is computer": {
+      "count": 11,
+      "first_seen": 1787632492.7459981,
+      "last_seen": 1789190060.8543212,
+      "success_count": 0,
+      "last_result": "Internet se mili information: A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations."
+    },
+    "what is filo kormo": {
+      "count": 1,
+      "first_seen": 1787644360.4073782,
+      "last_seen": 1787644360.4073782,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "face computer": {
+      "count": 1,
+      "first_seen": 1787645230.9593613,
+      "last_seen": 1787645230.9593613,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "what is computer what is computer": {
+      "count": 1,
+      "first_seen": 1787647691.6059802,
+      "last_seen": 1787647691.6059802,
+      "success_count": 0,
+      "last_result": "Internet se mili information: What Is a Computer? | What is a Computer? - GeeksforGeeks | Computer | Definition, History, Operating Systems, & Facts | Britannica | Computer - Wikipedia | What Is a Computer?"
+    },
+    "what is python": {
+      "count": 3,
+      "first_seen": 1787648001.0642533,
+      "last_seen": 1789190709.560736,
+      "success_count": 0,
+      "last_result": "Internet se mili information: was a Cold War contingency plan of the British Government for the continuity of government in the event of nuclear war."
+    },
+    "ui zatila kwarma": {
+      "count": 1,
+      "first_seen": 1787648048.5702043,
+      "last_seen": 1787648048.5702043,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "about tila formos": {
+      "count": 1,
+      "first_seen": 1787648067.9288678,
+      "last_seen": 1787648067.9288678,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "click the corner": {
+      "count": 1,
+      "first_seen": 1787648089.2245648,
+      "last_seen": 1787648089.2245648,
+      "success_count": 0,
+      "last_result": "'the corner' par click kar diya."
+    },
+    "we re at koli we re at koli": {
+      "count": 1,
+      "first_seen": 1787648156.9307363,
+      "last_seen": 1787648156.9307363,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "gaming par": {
+      "count": 1,
+      "first_seen": 1787676887.8183978,
+      "last_seen": 1787676887.8183978,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "the song is step by step by step by step by step": {
+      "count": 1,
+      "first_seen": 1788278972.8559847,
+      "last_seen": 1788278972.8559847,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "hinglish assistant command": {
+      "count": 1,
+      "first_seen": 1788578390.2180278,
+      "last_seen": 1788578390.2180278,
+      "success_count": 0,
+      "last_result": "Haan, bolo."
+    },
+    "game day": {
+      "count": 1,
+      "first_seen": 1788578678.6116006,
+      "last_seen": 1788578678.6116006,
+      "success_count": 0,
+      "last_result": "Game on! 🎮 Aaj kya khelne ka plan hai? Should I open Steam or the Xbox app for you?"
+    },
+    "par game video now": {
+      "count": 1,
+      "first_seen": 1788578702.2720435,
+      "last_seen": 1788578702.2720435,
+      "success_count": 0,
+      "last_result": "Kya aap game video **record** karna chahte hain ya **play**? \n\nAgar aap game record karna chahte hain, toh aap **Windows + Alt + R** press kar sakte hain."
+    },
+    "download game video": {
+      "count": 1,
+      "first_seen": 1788578753.368629,
+      "last_seen": 1788578753.368629,
+      "success_count": 0,
+      "last_result": "Kon sa game video download karna hai? Aap link share kar sakte ho. \n\nMain direct aapke PC me file save nahi kar sakta, lekin main aapko download karne ke best tools (jaise browser extensions ya IDM) suggest kar sakta hoon."
+    },
+    "drive pour me body so i can": {
+      "count": 1,
+      "first_seen": 1788579020.514304,
+      "last_seen": 1788579020.514304,
+      "success_count": 0,
+      "last_result": "I didn't quite catch that. Are you trying to open a specific drive on your PC, like the C: or D: drive? Let me know what you'd like to do!"
+    },
+    "copy": {
+      "count": 1,
+      "first_seen": 1788579057.4055774,
+      "last_seen": 1788579057.4055774,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "i don t know i m need to say": {
+      "count": 1,
+      "first_seen": 1788579920.3356206,
+      "last_seen": 1788579920.3356206,
+      "success_count": 0,
+      "last_result": "No problem! You can ask me to open an app, control your volume, take a screenshot, or just answer any question. What would you like help with right now?"
+    },
+    "my name is netis": {
+      "count": 1,
+      "first_seen": 1788579976.0449085,
+      "last_seen": 1788579976.0449085,
+      "success_count": 0,
+      "last_result": "Nice to meet you, Netis! How can I help you on your PC today?"
+    },
+    "mid and arm guy": {
+      "count": 1,
+      "first_seen": 1788580017.020396,
+      "last_seen": 1788580017.020396,
+      "success_count": 0,
+      "last_result": "I didn't quite catch that, Netis. Could you rephrase or tell me what you'd like me to do?"
+    },
+    "what is my name": {
+      "count": 10,
+      "first_seen": 1788580037.4018588,
+      "last_seen": 1788589028.5268247,
+      "success_count": 0,
+      "last_result": "Aapka naam Nitish hai."
+    },
+    "meranem nithin": {
+      "count": 1,
+      "first_seen": 1788580805.0930886,
+      "last_seen": 1788580805.0930886,
+      "success_count": 0,
+      "last_result": "Haan, bolo."
+    },
+    "mera nam nitita": {
+      "count": 1,
+      "first_seen": 1788580826.0056968,
+      "last_seen": 1788580826.0056968,
+      "success_count": 0,
+      "last_result": "Achha, Nitita! Samajh gaya. Bataiye, aaj main aapki kya madad karoon?"
+    },
+    "meranemnitise meranemnitise": {
+      "count": 1,
+      "first_seen": 1788581147.8398468,
+      "last_seen": 1788581147.8398468,
+      "success_count": 0,
+      "last_result": "Accha, aapka naam Nitish hai! Main yaad rakhungi. Bataiye, aaj main aapki kya madad karoon?"
+    },
+    "moira name type": {
+      "count": 1,
+      "first_seen": 1788581201.34554,
+      "last_seen": 1788581201.34554,
+      "success_count": 0,
+      "last_result": "Aapka naam **Nitish** hai. \n\nMain ise yahan likh deti hoon: **Nitish**"
+    },
+    "word support": {
+      "count": 1,
+      "first_seen": 1788581227.5214875,
+      "last_seen": 1788581227.5214875,
+      "success_count": 0,
+      "last_result": "Kya aap Microsoft Word kholna chahte hain, ya Word se judi koi madad chahiye? Mujhe bataiye, aap kya karna chahte hain!"
+    },
+    "different page spelling": {
+      "count": 1,
+      "first_seen": 1788581250.2355936,
+      "last_seen": 1788581250.2355936,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "deep red": {
+      "count": 1,
+      "first_seen": 1788581265.607561,
+      "last_seen": 1788581265.607561,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "name email them what is my name": {
+      "count": 1,
+      "first_seen": 1788581631.1178017,
+      "last_seen": 1788581631.1178017,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "media knob jai": {
+      "count": 1,
+      "first_seen": 1788581651.0301516,
+      "last_seen": 1788581651.0301516,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "my name is": {
+      "count": 1,
+      "first_seen": 1788581672.9743853,
+      "last_seen": 1788581672.9743853,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "amiranam amiranam": {
+      "count": 1,
+      "first_seen": 1788581690.7843513,
+      "last_seen": 1788581690.7843513,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "please my name": {
+      "count": 1,
+      "first_seen": 1788581813.895076,
+      "last_seen": 1788581813.895076,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "miran amritisai": {
+      "count": 1,
+      "first_seen": 1788581859.692106,
+      "last_seen": 1788581859.692106,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "i m going to change the author to me": {
+      "count": 1,
+      "first_seen": 1788582221.732343,
+      "last_seen": 1788582221.732343,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "what can you do": {
+      "count": 1,
+      "first_seen": 1788582748.5674746,
+      "last_seen": 1788582748.5674746,
+      "success_count": 0,
+      "last_result": "Haan, bolo."
+    },
+    "no no no": {
+      "count": 1,
+      "first_seen": 1788584037.6609173,
+      "last_seen": 1788584037.6609173,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "okay okay okay": {
+      "count": 1,
+      "first_seen": 1788589104.5902107,
+      "last_seen": 1788589104.5902107,
+      "success_count": 0,
+      "last_result": "Alright! Batayiye, aur kya madad chahiye?"
+    },
+    "let s run india matches": {
+      "count": 1,
+      "first_seen": 1788589207.4453542,
+      "last_seen": 1788589207.4453542,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "special click we are next": {
+      "count": 1,
+      "first_seen": 1788589234.7241354,
+      "last_seen": 1788589234.7241354,
+      "success_count": 0,
+      "last_result": "Screen par 'special' nahi mila."
+    },
+    "click now blink file save you are in the book": {
+      "count": 1,
+      "first_seen": 1788589640.350272,
+      "last_seen": 1788589640.350272,
+      "success_count": 0,
+      "last_result": "Screen par 'now blink file save you are in the book' nahi mila."
+    },
+    "close your back": {
+      "count": 1,
+      "first_seen": 1788589742.0394924,
+      "last_seen": 1788589742.0394924,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "india ka hape hai": {
+      "count": 1,
+      "first_seen": 1788923845.814177,
+      "last_seen": 1788923845.814177,
+      "success_count": 0,
+      "last_result": "India ka shape roughly quadrilateral (chaukona) hai, aur south side se ye triangular peninsular shape ka hai."
+    },
+    "what the f***ing?": {
+      "count": 1,
+      "first_seen": 1789190086.720698,
+      "last_seen": 1789190086.720698,
+      "success_count": 0,
+      "last_result": "Internet se mili information: Computer ek programmable machine hai jo information ko process karti hai."
+    },
+    "what is your name?": {
+      "count": 1,
+      "first_seen": 1789190120.9842985,
+      "last_seen": 1789190120.9842985,
+      "success_count": 0,
+      "last_result": "Internet se mili information: is a 2016 Japanese animated romantic fantasy film written and directed by Makoto Shinkai, produced by CoMix Wave Films, and distributed by Toho."
+    },
+    "k": {
+      "count": 1,
+      "first_seen": 1789190205.83159,
+      "last_seen": 1789190205.83159,
+      "success_count": 0,
+      "last_result": "Haan ji, bataiye! Main aapki kya help karoon?"
+    },
+    "today is saturday": {
+      "count": 1,
+      "first_seen": 1789190223.305008,
+      "last_seen": 1789190223.305008,
+      "success_count": 0,
+      "last_result": "Aaj Saturday hai."
+    },
+    "m d": {
+      "count": 1,
+      "first_seen": 1789190405.9944267,
+      "last_seen": 1789190405.9944267,
+      "success_count": 0,
+      "last_result": "Main samajhne ki koshish kar rahi hoon, lekin abhi is kaam ka proper action nahi bana hai."
+    },
+    "spite, then.": {
+      "count": 1,
+      "first_seen": 1789190581.4377928,
+      "last_seen": 1789190581.4377928,
+      "success_count": 0,
+      "last_result": "I didn't quite catch that. Did you mean \"right click\" or something else? Let me know what you'd like to do next!"
+    },
+    "abhi time kya hai.": {
+      "count": 1,
+      "first_seen": 1789453361.2485814,
+      "last_seen": 1789453361.2485814,
+      "success_count": 1,
+      "last_result": "Abhi time 11:52 AM hai."
+    },
+    "type.": {
+      "count": 1,
+      "first_seen": 1789453400.271306,
+      "last_seen": 1789453400.271306,
+      "success_count": 0,
+      "last_result": "Kya type karna hai? Bataiye."
+    },
+    "go forward. click.": {
+      "count": 1,
+      "first_seen": 1789623801.6911936,
+      "last_seen": 1789623801.6911936,
+      "success_count": 0,
+      "last_result": "Screen par 'go forward' nahi mila."
+    }
+  }
+}

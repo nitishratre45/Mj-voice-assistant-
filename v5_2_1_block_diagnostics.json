@@ -1,0 +1,97 @@
+{
+  "version": "V5.2.1",
+  "source": "data\\v5_2_safe_execution_bridge.json",
+  "blocked_count": 9,
+  "reason_counts": {
+    "missing_command": 9
+  },
+  "diagnostics": [
+    {
+      "index": 1,
+      "reason": "missing_command",
+      "original": "",
+      "intent": "open",
+      "target": "calculator",
+      "confidence": 0.94,
+      "source": "handoff"
+    },
+    {
+      "index": 2,
+      "reason": "missing_command",
+      "original": "",
+      "intent": "open",
+      "target": "notepad",
+      "confidence": 0.94,
+      "source": "handoff"
+    },
+    {
+      "index": 3,
+      "reason": "missing_command",
+      "original": "",
+      "intent": "open",
+      "target": "chrome",
+      "confidence": 0.94,
+      "source": "handoff"
+    },
+    {
+      "index": 4,
+      "reason": "missing_command",
+      "original": "",
+      "intent": "open",
+      "target": "youtube",
+      "confidence": 0.9,
+      "source": "handoff"
+    },
+    {
+      "index": 5,
+      "reason": "missing_command",
+      "original": "",
+      "intent": "search",
+      "target": "tilak varma",
+      "confidence": 0.93,
+      "source": "handoff"
+    },
+    {
+      "index": 6,
+      "reason": "missing_command",
+      "original": "",
+      "intent": "search",
+      "target": "youtube",
+      "confidence": 0.93,
+      "source": "handoff"
+    },
+    {
+      "index": 7,
+      "reason": "missing_command",
+      "original": "",
+      "intent": "open",
+      "target": "google",
+      "confidence": 0.94,
+      "source": "handoff"
+    },
+    {
+      "index": 8,
+      "reason": "missing_command",
+      "original": "",
+      "intent": "close",
+      "target": "google",
+      "confidence": 0.92,
+      "source": "handoff"
+    },
+    {
+      "index": 9,
+      "reason": "missing_command",
+      "original": "",
+      "intent": "click",
+      "target": "button",
+      "confidence": 0.95,
+      "source": "handoff"
+    }
+  ],
+  "real_execution": false,
+  "automatic_delete": false,
+  "automatic_move": false,
+  "automatic_merge": false,
+  "automatic_rewrite": false,
+  "automatic_overwrite": false
+}

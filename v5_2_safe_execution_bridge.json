@@ -1,0 +1,174 @@
+{
+  "version": "V5.2",
+  "timestamp": "2026-08-25T11:59:00",
+  "source": "data\\intent_recovery_v4_integration.json",
+  "normalized_records": 9,
+  "safe_commands": 0,
+  "blocked_commands": 9,
+  "safe": [],
+  "blocked": [
+    {
+      "source": "handoff",
+      "original": "",
+      "intent": "open",
+      "target": "calculator",
+      "confidence": 0.94,
+      "raw": {
+        "intent": "open",
+        "target": "calculator",
+        "confidence": 0.94,
+        "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+        "executed": false
+      },
+      "validation": "missing_command",
+      "safe": false
+    },
+    {
+      "source": "handoff",
+      "original": "",
+      "intent": "open",
+      "target": "notepad",
+      "confidence": 0.94,
+      "raw": {
+        "intent": "open",
+        "target": "notepad",
+        "confidence": 0.94,
+        "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+        "executed": false
+      },
+      "validation": "missing_command",
+      "safe": false
+    },
+    {
+      "source": "handoff",
+      "original": "",
+      "intent": "open",
+      "target": "chrome",
+      "confidence": 0.94,
+      "raw": {
+        "intent": "open",
+        "target": "chrome",
+        "confidence": 0.94,
+        "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+        "executed": false
+      },
+      "validation": "missing_command",
+      "safe": false
+    },
+    {
+      "source": "handoff",
+      "original": "",
+      "intent": "open",
+      "target": "youtube",
+      "confidence": 0.9,
+      "raw": {
+        "intent": "open",
+        "target": "youtube",
+        "confidence": 0.9,
+        "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+        "executed": false
+      },
+      "validation": "missing_command",
+      "safe": false
+    },
+    {
+      "source": "handoff",
+      "original": "",
+      "intent": "search",
+      "target": "tilak varma",
+      "confidence": 0.93,
+      "raw": {
+        "intent": "search",
+        "target": "tilak varma",
+        "confidence": 0.93,
+        "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+        "executed": false
+      },
+      "validation": "missing_command",
+      "safe": false
+    },
+    {
+      "source": "handoff",
+      "original": "",
+      "intent": "search",
+      "target": "youtube",
+      "confidence": 0.93,
+      "raw": {
+        "intent": "search",
+        "target": "youtube",
+        "confidence": 0.93,
+        "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+        "executed": false
+      },
+      "validation": "missing_command",
+      "safe": false
+    },
+    {
+      "source": "handoff",
+      "original": "",
+      "intent": "open",
+      "target": "google",
+      "confidence": 0.94,
+      "raw": {
+        "intent": "open",
+        "target": "google",
+        "confidence": 0.94,
+        "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+        "executed": false
+      },
+      "validation": "missing_command",
+      "safe": false
+    },
+    {
+      "source": "handoff",
+      "original": "",
+      "intent": "close",
+      "target": "google",
+      "confidence": 0.92,
+      "raw": {
+        "intent": "close",
+        "target": "google",
+        "confidence": 0.92,
+        "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+        "executed": false
+      },
+      "validation": "missing_command",
+      "safe": false
+    },
+    {
+      "source": "handoff",
+      "original": "",
+      "intent": "click",
+      "target": "button",
+      "confidence": 0.95,
+      "raw": {
+        "intent": "click",
+        "target": "button",
+        "confidence": 0.95,
+        "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+        "executed": false
+      },
+      "validation": "missing_command",
+      "safe": false
+    }
+  ],
+  "dry_run": [],
+  "executor": {
+    "available": true,
+    "success": true,
+    "executor": "executor.py",
+    "returncode": 0,
+    "stderr": ""
+  },
+  "safety_gate": false,
+  "execution_enabled": false,
+  "actual_execution": false,
+  "actual_execution_count": 0,
+  "automatic_delete": false,
+  "automatic_move": false,
+  "automatic_merge": false,
+  "automatic_rewrite": false,
+  "automatic_overwrite": false,
+  "rollback": true,
+  "status": "ATTENTION_REQUIRED"
+}

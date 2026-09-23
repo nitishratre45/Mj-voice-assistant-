@@ -1,0 +1,36 @@
+{
+  "version": "MJ_BRAIN_WEB_BRIDGE_V11",
+  "brain": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\brain.py",
+  "web_engine": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\mj_web.py",
+  "backup": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\archive_old\\brain_before_web_bridge_v11.py",
+  "checks": {
+    "MJWeb import": true,
+    "web_engine": true,
+    "V11 answer method": true,
+    "V11 question hook": false,
+    "MJWeb search_and_read": true
+  },
+  "tests": [
+    {
+      "query": "what is computer",
+      "success": true,
+      "answer": "Wake word nahi mila."
+    },
+    {
+      "query": "what is artificial intelligence",
+      "success": true,
+      "answer": "Wake word nahi mila."
+    },
+    {
+      "query": "why is sky blue",
+      "success": true,
+      "answer": "Wake word nahi mila."
+    }
+  ],
+  "real_command_execution": false,
+  "automatic_delete": false,
+  "automatic_move": false,
+  "automatic_merge": false,
+  "automatic_overwrite": false,
+  "rollback_backup": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\archive_old\\brain_before_web_bridge_v11.py"
+}

@@ -1,0 +1,25 @@
+{
+  "version": "V7",
+  "timestamp": "2026-08-25T10:14:15",
+  "root": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE",
+  "active_python_files": 97,
+  "healthy_files": 97,
+  "broken_files": 0,
+  "healthy": true,
+  "excluded_directories": [
+    ".git",
+    ".venv",
+    "__pycache__",
+    "archive_old",
+    "backup",
+    "backups",
+    "data",
+    "env",
+    "logs",
+    "self_update_backups",
+    "temp",
+    "tmp",
+    "venv"
+  ],
+  "broken": []
+}

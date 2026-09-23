@@ -1,0 +1,23 @@
+{
+  "version": "V5.3",
+  "timestamp": "2026-08-25T12:01:09",
+  "source_report": "data\\v5_2_safe_execution_bridge.json",
+  "handoff_records": 0,
+  "reconstructed": 0,
+  "safe_commands": 0,
+  "blocked_commands": 0,
+  "commands": [],
+  "blocked": [],
+  "dry_run": [],
+  "executor": "executor.py",
+  "executor_compile": true,
+  "safety_gate": false,
+  "real_execution": false,
+  "source_rewrite": false,
+  "automatic_delete": false,
+  "automatic_move": false,
+  "automatic_merge": false,
+  "automatic_overwrite": false,
+  "rollback": true,
+  "status": "ATTENTION_REQUIRED"
+}

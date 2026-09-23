@@ -1,0 +1,126 @@
+{
+  "version": "V13",
+  "timestamp": "2026-08-25T10:18:06",
+  "candidates": [
+    {
+      "file": "autonomous_v25_14.py",
+      "function": "find_best_result",
+      "lines": 552,
+      "priority": 100
+    },
+    {
+      "file": "autonomous_v25_14_STABLE.py",
+      "function": "find_best_result",
+      "lines": 552,
+      "priority": 100
+    },
+    {
+      "file": "planner.py",
+      "function": "build",
+      "lines": 544,
+      "priority": 100
+    },
+    {
+      "file": "brain.py",
+      "function": "_process_single",
+      "lines": 452,
+      "priority": 90
+    },
+    {
+      "file": "brain_backup_before_unified_v2.py",
+      "function": "_process_single",
+      "lines": 452,
+      "priority": 90
+    },
+    {
+      "file": "brain_core.py",
+      "function": "search_mj_unified_knowledge",
+      "lines": 422,
+      "priority": 84
+    },
+    {
+      "file": "mj.py",
+      "function": "main",
+      "lines": 420,
+      "priority": 84
+    },
+    {
+      "file": "screen_agent.py",
+      "function": "browser_page_summary",
+      "lines": 417,
+      "priority": 83
+    },
+    {
+      "file": "mj_before_v8_runtime_v4.py",
+      "function": "main",
+      "lines": 390,
+      "priority": 78
+    },
+    {
+      "file": "brain_backup.py",
+      "function": "_process_single",
+      "lines": 382,
+      "priority": 76
+    },
+    {
+      "file": "brain_working.py",
+      "function": "_process_single",
+      "lines": 382,
+      "priority": 76
+    },
+    {
+      "file": "screen_agent_WORKING_BACKUP.py",
+      "function": "open_browser",
+      "lines": 367,
+      "priority": 73
+    },
+    {
+      "file": "intent_engine.py",
+      "function": "understand",
+      "lines": 363,
+      "priority": 72
+    },
+    {
+      "file": "intent_engine_working.py",
+      "function": "understand",
+      "lines": 363,
+      "priority": 72
+    },
+    {
+      "file": "screen_agent_WORKING_BACKUP.py",
+      "function": "browser_search_and_type",
+      "lines": 358,
+      "priority": 71
+    },
+    {
+      "file": "screen_agent.py",
+      "function": "process",
+      "lines": 341,
+      "priority": 68
+    },
+    {
+      "file": "screen_agent_WORKING_BACKUP.py",
+      "function": "process",
+      "lines": 341,
+      "priority": 68
+    },
+    {
+      "file": "mj_autonomous_refactor_v2.py",
+      "function": "cycle",
+      "lines": 331,
+      "priority": 66
+    },
+    {
+      "file": "autonomous_v25_14.py",
+      "function": "run",
+      "lines": 311,
+      "priority": 62
+    },
+    {
+      "file": "autonomous_v25_14_STABLE.py",
+      "function": "run",
+      "lines": 311,
+      "priority": 62
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "version": "QUESTION_ANSWER_V9",
+  "timestamp": "2026-08-25T12:39:08",
+  "tests": [
+    {
+      "input": "what is computer",
+      "question": true,
+      "route": "web",
+      "search_route": "failed",
+      "success": false,
+      "reason": "no_relevant_answer",
+      "result_count": 0,
+      "top_results": []
+    },
+    {
+      "input": "what is artificial intelligence",
+      "question": true,
+      "route": "web",
+      "search_route": "failed",
+      "success": false,
+      "reason": "no_relevant_answer",
+      "result_count": 0,
+      "top_results": []
+    },
+    {
+      "input": "how does internet work",
+      "question": true,
+      "route": "web",
+      "search_route": "failed",
+      "success": false,
+      "reason": "no_relevant_answer",
+      "result_count": 0,
+      "top_results": []
+    },
+    {
+      "input": "who is Virat Kohli",
+      "question": true,
+      "route": "web",
+      "search_route": "failed",
+      "success": false,
+      "reason": "no_relevant_answer",
+      "result_count": 0,
+      "top_results": []
+    },
+    {
+      "input": "latest cricket news",
+      "question": true,
+      "route": "web",
+      "search_route": "failed",
+      "success": false,
+      "reason": "no_relevant_answer",
+      "result_count": 0,
+      "top_results": []
+    },
+    {
+      "input": "what is Python",
+      "question": true,
+      "route": "web",
+      "search_route": "failed",
+      "success": false,
+      "reason": "no_relevant_answer",
+      "result_count": 0,
+      "top_results": []
+    },
+    {
+      "input": "why is sky blue",
+      "question": true,
+      "route": "web",
+      "search_route": "failed",
+      "success": false,
+      "reason": "no_relevant_answer",
+      "result_count": 0,
+      "top_results": []
+    },
+    {
+      "input": "what is machine learning",
+      "question": true,
+      "route": "web",
+      "search_route": "failed",
+      "success": false,
+      "reason": "no_relevant_answer",
+      "result_count": 0,
+      "top_results": []
+    },
+    {
+      "input": "who is the current Prime Minister of India",
+      "question": true,
+      "route": "web",
+      "search_route": "failed",
+      "success": false,
+      "reason": "no_relevant_answer",
+      "result_count": 0,
+      "top_results": []
+    },
+    {
+      "input": "calculator kholo",
+      "question": false,
+      "route": "not_question",
+      "success": false,
+      "reason": "handled_by_command_engine"
+    },
+    {
+      "input": "search tilak varma",
+      "question": false,
+      "route": "not_question",
+      "success": false,
+      "reason": "handled_by_command_engine"
+    }
+  ],
+  "total": 11,
+  "answered": 0,
+  "failed": 11,
+  "web_search": true,
+  "relevance_filter": true,
+  "retry_search": true,
+  "question_routing": true,
+  "command_execution": false,
+  "source_rewrite": false,
+  "automatic_delete": false,
+  "automatic_move": false,
+  "automatic_merge": false,
+  "automatic_overwrite": false,
+  "rollback": true
+}

@@ -1,0 +1,81 @@
+{
+  "commands": {
+    "youtube open": {
+      "uses": 2,
+      "success": 2,
+      "failed": 0,
+      "confidence": 0.95,
+      "intent": "open_youtube",
+      "action": "open",
+      "result": "YouTube khol diya",
+      "first_seen": 1787322083.8827858,
+      "last_seen": 1787322142.6030774
+    }
+  },
+  "aliases": {
+    "youtube open": "youtube open"
+  },
+  "intents": {},
+  "entities": {},
+  "shortcuts": {
+    "mera youtube": {
+      "target": "youtube kholo",
+      "uses": 1,
+      "created": 1787322142.6022336
+    }
+  },
+  "chains": {
+    "youtube setup": {
+      "commands": [
+        "youtube kholo",
+        "youtube search karo"
+      ],
+      "uses": 0,
+      "success": 0,
+      "failed": 0
+    }
+  },
+  "session": {
+    "app": {
+      "value": "youtube",
+      "time": 1787322142.6022122
+    },
+    "page": {
+      "value": "youtube",
+      "time": 1787322142.6022146
+    },
+    "target": {
+      "value": "youtube",
+      "time": 1787322142.6033897
+    },
+    "action": {
+      "value": "open",
+      "time": 1787322142.6033914
+    }
+  },
+  "preferences": {},
+  "history": [
+    {
+      "command": "youtube kholo",
+      "action": "open",
+      "target": "youtube",
+      "success": true,
+      "time": 1787322083.8836195
+    },
+    {
+      "command": "youtube kholo",
+      "action": "open",
+      "target": "youtube",
+      "success": true,
+      "time": 1787322142.603393
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "success": 2,
+    "failed": 0,
+    "retries": 0,
+    "learned": 2,
+    "verified": 2
+  }
+}

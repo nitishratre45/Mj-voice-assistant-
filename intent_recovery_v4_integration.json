@@ -1,0 +1,241 @@
+{
+  "version": "INTENT_INTEGRATION_V4.1",
+  "timestamp": "2026-08-25T11:53:25",
+  "v3_compile": true,
+  "v3_report_valid": true,
+  "v3_test_records": 31,
+  "extracted_commands": 37,
+  "safe_commands": 31,
+  "blocked_commands": 6,
+  "handoff_ready": 31,
+  "handoff": [
+    {
+      "intent": "open",
+      "target": "calculator",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "notepad",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "chrome",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "calculator",
+      "confidence": 0.91,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "notepad",
+      "confidence": 0.91,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "chrome",
+      "confidence": 0.9,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "youtube",
+      "confidence": 0.9,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "chrome",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "calculator",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "calculator",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "notepad",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "search",
+      "target": "tilak varma",
+      "confidence": 0.93,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "search",
+      "target": "tilak varma",
+      "confidence": 0.93,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "search",
+      "target": "youtube",
+      "confidence": 0.93,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "google",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "close",
+      "target": "google",
+      "confidence": 0.92,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "close",
+      "target": "google",
+      "confidence": 0.92,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "click",
+      "target": "button",
+      "confidence": 0.95,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "click",
+      "target": "button",
+      "confidence": 0.9,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "calculator",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "notepad",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "chrome",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "youtube",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "calculator",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "chrome",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "chrome",
+      "confidence": 0.91,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "youtube",
+      "confidence": 0.91,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "calculator",
+      "confidence": 0.95,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "notepad",
+      "confidence": 0.95,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "search",
+      "target": "youtube",
+      "confidence": 0.93,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    },
+    {
+      "intent": "open",
+      "target": "chrome",
+      "confidence": 0.94,
+      "handoff": "READY_FOR_EXISTING_INTENT_ENGINE",
+      "executed": false
+    }
+  ],
+  "integration": true,
+  "execution_enabled": false,
+  "execution_count": 0,
+  "source_rewrite": false,
+  "automatic_execution": false,
+  "automatic_delete": false,
+  "automatic_move": false,
+  "automatic_merge": false,
+  "automatic_overwrite": false,
+  "rollback": true,
+  "status": "INTEGRATION_READY"
+}

@@ -1,0 +1,64 @@
+{
+  "version": "QUESTION_ANSWER_V7",
+  "timestamp": "2026-08-25T12:33:24",
+  "tests": [
+    {
+      "question": "what is computer",
+      "success": false,
+      "intent": "question",
+      "answer": null,
+      "reason": "no_answer_available",
+      "route": "none"
+    },
+    {
+      "question": "what is artificial intelligence?",
+      "success": false,
+      "intent": "question",
+      "answer": null,
+      "reason": "no_answer_available",
+      "route": "none"
+    },
+    {
+      "question": "how does internet work?",
+      "success": false,
+      "intent": "question",
+      "answer": null,
+      "reason": "no_answer_available",
+      "route": "none"
+    },
+    {
+      "question": "who is Virat Kohli?",
+      "success": false,
+      "intent": "question",
+      "answer": null,
+      "reason": "no_answer_available",
+      "route": "none"
+    },
+    {
+      "question": "latest cricket news",
+      "success": false,
+      "intent": "not_question",
+      "answer": null,
+      "reason": "question_not_detected"
+    },
+    {
+      "question": "calculator kholo",
+      "success": false,
+      "intent": "not_question",
+      "answer": null,
+      "reason": "question_not_detected"
+    },
+    {
+      "question": "search tilak varma",
+      "success": false,
+      "intent": "not_question",
+      "answer": null,
+      "reason": "question_not_detected"
+    }
+  ],
+  "wake_word_required_for_typed_test": false,
+  "web_fallback": true,
+  "automatic_delete": false,
+  "automatic_rewrite": false,
+  "automatic_overwrite": false
+}

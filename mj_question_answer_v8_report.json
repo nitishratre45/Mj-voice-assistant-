@@ -1,0 +1,90 @@
+{
+  "version": "QUESTION_ANSWER_V8",
+  "timestamp": "2026-08-25T12:36:48",
+  "total": 9,
+  "answered": 5,
+  "web_fallback": true,
+  "wake_word_bypass_for_direct_text": true,
+  "automatic_delete": false,
+  "automatic_move": false,
+  "automatic_merge": false,
+  "automatic_rewrite": false,
+  "automatic_overwrite": false,
+  "tests": [
+    {
+      "input": "what is computer",
+      "success": true,
+      "intent": "question",
+      "answer": "Computer\nA computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations. Modern digital electronic computers can perform generic sets of operations known as programs, which enable computers to perform a wide range of tasks. The term computer system may refer to a nominally complete computer that includes the hardware, operating system, software, and peripheral equipment needed and used for full operation, or to a group of computers that are linked and function together, such as a computer network or computer cluster. Numbering only a few in the 1930s, today computers are ubiquitous over a broad range of industrial and consumer products that use computers as control systems. The price, size, and complexity of computers can range from simple single-purpose devices like key fobs, microwave ovens, and remote controls up to supercomputers and factories using industrial robots.\nComputability theory - Computability theory, also known as recursion theory, is a branch of mathematical logic, computer science, and the theory of computation \nComputability theory - Computability theory, also known as recursion theory, is a branch of mathematical logic, computer science, and the theory of computation that originated in the 1930s with the study of computable functions and Turing degrees.\nComputer security - Computer security is a subdiscipline within the field of information security.\nComputer security - Computer security is a subdiscipline within the field of information security.\nGlossary of computer hardware terms - This glossary of computer hardware terms is a list of definitions of terms and concepts related to computer hardware, i.e.\nGlossary of computer hardware terms - This glossary of computer hardware terms is a list of definitions of terms and concepts related to computer hardware, i.e. the physical and structural components of computers, architectural issues, and peripheral devices.",
+      "source": "https://duckduckgo.com/c/Electronics_industry",
+      "route": "web"
+    },
+    {
+      "input": "what is artificial intelligence",
+      "success": true,
+      "intent": "question",
+      "answer": "Artificial Intelligence\nArtificial intelligence is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in engineering, mathematics and computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals. High-profile applications of AI include advanced web search engines, chatbots, virtual assistants, autonomous vehicles, and play and analysis in strategy games. Since the 2020s, generative AI has become widely available to generate images, audio, and videos from text prompts. The traditional goals of AI research include learning, reasoning, knowledge representation, planning, natural language processing, and perception, as well as support for robotics.\nMachine learning - Machine learning is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can l\nMachine learning - Machine learning is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit programming language instructions.\nDeep learning - In machine learning, deep learning focuses on utilizing multilayered neural networks to perform tasks such as classification, regression, and re\nDeep learning - In machine learning, deep learning focuses on utilizing multilayered neural networks to perform tasks such as classification, regression, and representation learning.\nNatural language processing - Natural language processing is the processing of natural language information by a computer. NLP is a subfield of computer science\nNatural language processing - Natural language processing is the processing of natural language information by a computer. NLP is a subfield of computer science and is closely associated with artificial intelligence.",
+      "source": "https://duckduckgo.com/c/Computer_science",
+      "route": "web"
+    },
+    {
+      "input": "how does internet work",
+      "success": true,
+      "intent": "question",
+      "answer": "How Does the Internet Work - GeeksforGeeks\nHow does the Internet work? | Learning Center - Cloudflare\nHow does the Internet work? - HowStuffWorks\nHow does the Internet work? - Learn web development | MDN\nHow Does the Internet Work? - HighSpeedInternet.com\nHow the Internet works: A simple introduction - Explain that Stuff\nInternet - Wikipedia\nHow Does the Internet Work? A Step-By-Step Guide",
+      "source": "https://www.thetechedvocate.org/how-does-the-internet-work-a-step-by-step-guide/",
+      "route": "web"
+    },
+    {
+      "input": "who is Virat Kohli",
+      "success": true,
+      "intent": "question",
+      "answer": "Virat Kohli\nVirat Kohli is an Indian international cricketer and former all-format captain of the Indian national cricket team. He is a right-handed batter and an occasional right-arm medium-pace bowler. Considered one of the greatest batters in limited-overs cricket, he has been acclaimed for his batting skills and records. Kohli has the most centuries in ODIs and the second-most centuries in international cricket with 85 tons across all formats. He is also the leading run-scorer in the Indian Premier League. Kohli was the captain of the 2008 U19 World Cup winning team and was a crucial member of the Indian teams that won 2011 Cricket World Cup, 2013 Champions Trophy, 2024 T20 World Cup, and 2025 Champions Trophy. He plays for Royal Challengers Bengaluru in the Indian Premier League and for Delhi in domestic cricket. In 2013, Kohli was ranked number one in the ODI batting rankings. In 2015, he achieved the same in T20I cricket.\nMan of the Tournament in ODI Worldcup\nMan of the Tournament in ODI Worldcup\nIndia Test cricket captains\nIndia Test cricket captains\nWisden Leading Cricketers in the World\nWisden Leading Cricketers in the World",
+      "source": "https://duckduckgo.com/c/Cricketers_at_the_2015_Cricket_World_Cup",
+      "route": "web"
+    },
+    {
+      "input": "latest cricket news",
+      "success": false,
+      "intent": "command",
+      "answer": null,
+      "route": "not_question",
+      "reason": "handled_by_command_engine"
+    },
+    {
+      "input": "what is Python",
+      "success": true,
+      "intent": "question",
+      "answer": "PYTHON\nPYTHON was a Cold War contingency plan of the British Government for the continuity of government in the event of nuclear war.\nCold War history of the United Kingdom\nCold War history of the United Kingdom\nUnited Kingdom nuclear command and control\nUnited Kingdom nuclear command and control\nContinuity of government\nContinuity of government",
+      "source": "https://duckduckgo.com/c/Emergency_management_in_the_United_Kingdom",
+      "route": "web"
+    },
+    {
+      "input": "why is sky blue",
+      "success": false,
+      "intent": "question",
+      "answer": null,
+      "source": null,
+      "route": "none",
+      "reason": "no_answer_available",
+      "knowledge_reason": "knowledge_returned_none",
+      "web_reason": "no_compatible_search_method"
+    },
+    {
+      "input": "calculator kholo",
+      "success": false,
+      "intent": "command",
+      "answer": null,
+      "route": "not_question",
+      "reason": "handled_by_command_engine"
+    },
+    {
+      "input": "search tilak varma",
+      "success": false,
+      "intent": "command",
+      "answer": null,
+      "route": "not_question",
+      "reason": "handled_by_command_engine"
+    }
+  ]
+}

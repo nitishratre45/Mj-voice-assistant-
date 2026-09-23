@@ -1,0 +1,1041 @@
+{
+  "timestamp": "2026-09-05T10:55:14",
+  "project": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE",
+  "active_python_files": 103,
+  "healthy_files": 103,
+  "broken_files": 0,
+  "healthy": true,
+  "files": [
+    {
+      "file": "_QUARANTINE_FINAL\\mj_question_answer_v6.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 796,
+      "functions": 8,
+      "classes": 0
+    },
+    {
+      "file": "_QUARANTINE_FINAL\\mj_question_answer_v7.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 517,
+      "functions": 8,
+      "classes": 0
+    },
+    {
+      "file": "_QUARANTINE_FINAL\\mj_question_answer_v8.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 661,
+      "functions": 8,
+      "classes": 0
+    },
+    {
+      "file": "_QUARANTINE_FINAL\\mj_question_answer_v9.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1139,
+      "functions": 14,
+      "classes": 0
+    },
+    {
+      "file": "_QUARANTINE_FINAL\\mj_question_web_v15.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 154,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "_QUARANTINE_FINAL\\mj_v15_tts_web_answer_patch.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 235,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "_QUARANTINE_FINAL\\mj_v17_short_web_answer.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 176,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "_QUARANTINE_FINAL\\test_screen_ai.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 21,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "_QUARANTINE_FINAL\\test_tilak.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 22,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "add_live_web.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 309,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "add_page_cleaner.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 191,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "app_launcher.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 291,
+      "functions": 4,
+      "classes": 1
+    },
+    {
+      "file": "autonomous_v25_14.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1457,
+      "functions": 16,
+      "classes": 1
+    },
+    {
+      "file": "brain.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 3604,
+      "functions": 38,
+      "classes": 1
+    },
+    {
+      "file": "brain_core.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 2860,
+      "functions": 25,
+      "classes": 1
+    },
+    {
+      "file": "clean_repair_script_bom.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 36,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "command_memory.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 786,
+      "functions": 18,
+      "classes": 1
+    },
+    {
+      "file": "config.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 197,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "connect_article_intelligence.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 218,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "context.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 121,
+      "functions": 7,
+      "classes": 1
+    },
+    {
+      "file": "context_engine.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 214,
+      "functions": 12,
+      "classes": 3
+    },
+    {
+      "file": "conversation.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 37,
+      "functions": 6,
+      "classes": 1
+    },
+    {
+      "file": "conversation_manager.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 90,
+      "functions": 5,
+      "classes": 1
+    },
+    {
+      "file": "download_manager.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "executor.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1475,
+      "functions": 20,
+      "classes": 1
+    },
+    {
+      "file": "intent_engine.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1559,
+      "functions": 15,
+      "classes": 2
+    },
+    {
+      "file": "knowledge.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 407,
+      "functions": 13,
+      "classes": 2
+    },
+    {
+      "file": "listener.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 807,
+      "functions": 9,
+      "classes": 1
+    },
+    {
+      "file": "memory.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 49,
+      "functions": 6,
+      "classes": 1
+    },
+    {
+      "file": "mj.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 2068,
+      "functions": 20,
+      "classes": 0
+    },
+    {
+      "file": "mj_ai_assistant.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 416,
+      "functions": 9,
+      "classes": 2
+    },
+    {
+      "file": "mj_ai_core.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 62,
+      "functions": 2,
+      "classes": 1
+    },
+    {
+      "file": "mj_auto_v82_browser_cache_manager.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 78,
+      "functions": 2,
+      "classes": 0
+    },
+    {
+      "file": "mj_autonomous_cycle_v1.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 650,
+      "functions": 12,
+      "classes": 1
+    },
+    {
+      "file": "mj_autonomous_improvement_v8.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 768,
+      "functions": 12,
+      "classes": 1
+    },
+    {
+      "file": "mj_autonomous_master_v9.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 378,
+      "functions": 9,
+      "classes": 1
+    },
+    {
+      "file": "mj_autonomous_refactor_v2.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 785,
+      "functions": 13,
+      "classes": 1
+    },
+    {
+      "file": "mj_autonomous_refactor_v3.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 689,
+      "functions": 11,
+      "classes": 1
+    },
+    {
+      "file": "mj_autonomous_refactor_v4.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 456,
+      "functions": 10,
+      "classes": 1
+    },
+    {
+      "file": "mj_autonomous_refactor_v5.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 784,
+      "functions": 16,
+      "classes": 1
+    },
+    {
+      "file": "mj_autonomous_refactor_v6.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 809,
+      "functions": 18,
+      "classes": 1
+    },
+    {
+      "file": "mj_brain_web_bridge_v11.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1307,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_continuous_scheduler_v12.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 127,
+      "functions": 5,
+      "classes": 1
+    },
+    {
+      "file": "mj_diagnostic_reports.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 79,
+      "functions": 2,
+      "classes": 0
+    },
+    {
+      "file": "mj_gemini_brain.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 103,
+      "functions": 2,
+      "classes": 1
+    },
+    {
+      "file": "mj_gemini_integration_v1.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 255,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_gemini_integration_v2.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 228,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_improvement_history_v11.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 89,
+      "functions": 3,
+      "classes": 1
+    },
+    {
+      "file": "mj_intent_integration_v4.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 768,
+      "functions": 7,
+      "classes": 0
+    },
+    {
+      "file": "mj_intent_recovery.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 663,
+      "functions": 12,
+      "classes": 2
+    },
+    {
+      "file": "mj_intent_recovery_v2.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 760,
+      "functions": 13,
+      "classes": 2
+    },
+    {
+      "file": "mj_intent_recovery_v3.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_knowledge.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1204,
+      "functions": 19,
+      "classes": 1
+    },
+    {
+      "file": "mj_master_integration_test.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 702,
+      "functions": 4,
+      "classes": 0
+    },
+    {
+      "file": "mj_priority_engine_v13.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 160,
+      "functions": 3,
+      "classes": 1
+    },
+    {
+      "file": "mj_project_health.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 349,
+      "functions": 8,
+      "classes": 1
+    },
+    {
+      "file": "mj_project_scanner_v7.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 307,
+      "functions": 7,
+      "classes": 1
+    },
+    {
+      "file": "mj_question_priority_patch.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 152,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_regression_guard_v10.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 128,
+      "functions": 3,
+      "classes": 1
+    },
+    {
+      "file": "mj_safe_execution_bridge_v5.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 644,
+      "functions": 9,
+      "classes": 0
+    },
+    {
+      "file": "mj_safe_execution_bridge_v5_1.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 834,
+      "functions": 10,
+      "classes": 0
+    },
+    {
+      "file": "mj_safe_execution_bridge_v5_2.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 967,
+      "functions": 11,
+      "classes": 0
+    },
+    {
+      "file": "mj_safe_execution_bridge_v5_3.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 725,
+      "functions": 6,
+      "classes": 0
+    },
+    {
+      "file": "mj_safe_execution_bridge_v5_4.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 667,
+      "functions": 7,
+      "classes": 0
+    },
+    {
+      "file": "mj_safe_patch_executor.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 875,
+      "functions": 18,
+      "classes": 1
+    },
+    {
+      "file": "mj_screen_brain.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 315,
+      "functions": 8,
+      "classes": 2
+    },
+    {
+      "file": "mj_screen_bridge.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 188,
+      "functions": 6,
+      "classes": 1
+    },
+    {
+      "file": "mj_screen_fast_path_v2.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 421,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_screen_integration.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 111,
+      "functions": 5,
+      "classes": 1
+    },
+    {
+      "file": "mj_screen_target_safety_v1.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 261,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_screen_target_safety_v1_1.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 322,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_second_watchdog.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1009,
+      "functions": 21,
+      "classes": 1
+    },
+    {
+      "file": "mj_self_evolution_v66.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1202,
+      "functions": 23,
+      "classes": 1
+    },
+    {
+      "file": "mj_self_improvement_v3.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1086,
+      "functions": 19,
+      "classes": 1
+    },
+    {
+      "file": "mj_self_updater.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 566,
+      "functions": 12,
+      "classes": 1
+    },
+    {
+      "file": "mj_smart_voice_retry_v2.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 505,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_speed_audit_v1.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 164,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_speed_optimization_v1.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 152,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_terminal_open_v18.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 239,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_v5_2_1_block_diagnostics.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 264,
+      "functions": 2,
+      "classes": 0
+    },
+    {
+      "file": "mj_v6_intelligence.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 805,
+      "functions": 20,
+      "classes": 1
+    },
+    {
+      "file": "mj_v7_intelligence.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 935,
+      "functions": 46,
+      "classes": 1
+    },
+    {
+      "file": "mj_v8_agent_core.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1260,
+      "functions": 39,
+      "classes": 1
+    },
+    {
+      "file": "mj_voice_intelligence_v1.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 386,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_voice_retry_handoff_v1.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 465,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "mj_web.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 2496,
+      "functions": 26,
+      "classes": 1
+    },
+    {
+      "file": "multi_command.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 448,
+      "functions": 10,
+      "classes": 1
+    },
+    {
+      "file": "planner.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 562,
+      "functions": 1,
+      "classes": 2
+    },
+    {
+      "file": "question_handler.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 571,
+      "functions": 15,
+      "classes": 2
+    },
+    {
+      "file": "remove_python_bom.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 83,
+      "functions": 1,
+      "classes": 0
+    },
+    {
+      "file": "screen_agent.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 4681,
+      "functions": 57,
+      "classes": 2
+    },
+    {
+      "file": "screen_agent_agent_v1.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1551,
+      "functions": 27,
+      "classes": 2
+    },
+    {
+      "file": "screen_ai.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 331,
+      "functions": 12,
+      "classes": 1
+    },
+    {
+      "file": "screen_context.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 404,
+      "functions": 9,
+      "classes": 2
+    },
+    {
+      "file": "screen_controller.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 938,
+      "functions": 19,
+      "classes": 1
+    },
+    {
+      "file": "screen_reader.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 771,
+      "functions": 9,
+      "classes": 1
+    },
+    {
+      "file": "screen_vision.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 836,
+      "functions": 23,
+      "classes": 1
+    },
+    {
+      "file": "smart_followup.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 448,
+      "functions": 12,
+      "classes": 2
+    },
+    {
+      "file": "vocabulary_engine.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 325,
+      "functions": 9,
+      "classes": 0
+    },
+    {
+      "file": "voice\\__init__.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1,
+      "functions": 0,
+      "classes": 0
+    },
+    {
+      "file": "voice\\detector.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 356,
+      "functions": 6,
+      "classes": 0
+    },
+    {
+      "file": "voice\\listener.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 1573,
+      "functions": 23,
+      "classes": 1
+    },
+    {
+      "file": "voice\\speaker.py",
+      "healthy": true,
+      "error": null,
+      "line": null,
+      "column": null,
+      "lines": 112,
+      "functions": 4,
+      "classes": 1
+    }
+  ],
+  "broken": []
+}

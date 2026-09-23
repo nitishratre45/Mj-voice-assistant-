@@ -1,0 +1,514 @@
+{
+  "version": "INTENT_RECOVERY_V3",
+  "timestamp": "2026-08-25T11:48:16",
+  "total_inputs": 31,
+  "safe_results": 31,
+  "clarifications": 6,
+  "multi_command_results": 1,
+  "features": [
+    "hinglish_open",
+    "hinglish_search",
+    "hinglish_close",
+    "hinglish_type",
+    "reversed_word_order",
+    "fuzzy_intent",
+    "multi_command_parser",
+    "multi_command_safety_gate",
+    "empty_input_guard",
+    "unknown_intent_guard"
+  ],
+  "source_rewrite": false,
+  "automatic_delete": false,
+  "automatic_merge": false,
+  "automatic_overwrite": false,
+  "tests": [
+    {
+      "input": "calculator kholo",
+      "results": [
+        {
+          "original": "calculator kholo",
+          "normalized": "calculator kholo",
+          "intent": "open",
+          "target": "calculator",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "notepad kholo",
+      "results": [
+        {
+          "original": "notepad kholo",
+          "normalized": "notepad kholo",
+          "intent": "open",
+          "target": "notepad",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "chrome kholo",
+      "results": [
+        {
+          "original": "chrome kholo",
+          "normalized": "chrome kholo",
+          "intent": "open",
+          "target": "chrome",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "calculator open",
+      "results": [
+        {
+          "original": "calculator open",
+          "normalized": "calculator open",
+          "intent": "open",
+          "target": "calculator",
+          "confidence": 0.91,
+          "action": "pass_to_intent_engine",
+          "reason": "reversed_open"
+        }
+      ]
+    },
+    {
+      "input": "notepad open",
+      "results": [
+        {
+          "original": "notepad open",
+          "normalized": "notepad open",
+          "intent": "open",
+          "target": "notepad",
+          "confidence": 0.91,
+          "action": "pass_to_intent_engine",
+          "reason": "reversed_open"
+        }
+      ]
+    },
+    {
+      "input": "chrome start",
+      "results": [
+        {
+          "original": "chrome start",
+          "normalized": "chrome start",
+          "intent": "open",
+          "target": "chrome",
+          "confidence": 0.9,
+          "action": "pass_to_intent_engine",
+          "reason": "reversed_start"
+        }
+      ]
+    },
+    {
+      "input": "youtube launch",
+      "results": [
+        {
+          "original": "youtube launch",
+          "normalized": "youtube launch",
+          "intent": "open",
+          "target": "youtube",
+          "confidence": 0.9,
+          "action": "pass_to_intent_engine",
+          "reason": "reversed_launch"
+        }
+      ]
+    },
+    {
+      "input": "chrome chalao",
+      "results": [
+        {
+          "original": "chrome chalao",
+          "normalized": "chrome chalao",
+          "intent": "open",
+          "target": "chrome",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "calculator shuru karo",
+      "results": [
+        {
+          "original": "calculator shuru karo",
+          "normalized": "calculator shuru karo",
+          "intent": "open",
+          "target": "calculator",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "calculator ko kholo",
+      "results": [
+        {
+          "original": "calculator ko kholo",
+          "normalized": "calculator ko kholo",
+          "intent": "open",
+          "target": "calculator",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "notepad ko kholo",
+      "results": [
+        {
+          "original": "notepad ko kholo",
+          "normalized": "notepad ko kholo",
+          "intent": "open",
+          "target": "notepad",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "tilak varma search karo",
+      "results": [
+        {
+          "original": "tilak varma search karo",
+          "normalized": "tilak varma search karo",
+          "intent": "search",
+          "target": "tilak varma",
+          "confidence": 0.93,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_search"
+        }
+      ]
+    },
+    {
+      "input": "tilak varma ko search karo",
+      "results": [
+        {
+          "original": "tilak varma ko search karo",
+          "normalized": "tilak varma ko search karo",
+          "intent": "search",
+          "target": "tilak varma",
+          "confidence": 0.93,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_search"
+        }
+      ]
+    },
+    {
+      "input": "youtube search karo",
+      "results": [
+        {
+          "original": "youtube search karo",
+          "normalized": "youtube search karo",
+          "intent": "search",
+          "target": "youtube",
+          "confidence": 0.93,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_search"
+        }
+      ]
+    },
+    {
+      "input": "google kholo",
+      "results": [
+        {
+          "original": "google kholo",
+          "normalized": "google kholo",
+          "intent": "open",
+          "target": "google",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "google band karo",
+      "results": [
+        {
+          "original": "google band karo",
+          "normalized": "google band karo",
+          "intent": "close",
+          "target": "google",
+          "confidence": 0.92,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_close"
+        }
+      ]
+    },
+    {
+      "input": "google ko band karo",
+      "results": [
+        {
+          "original": "google ko band karo",
+          "normalized": "google ko band karo",
+          "intent": "close",
+          "target": "google",
+          "confidence": 0.92,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_close"
+        }
+      ]
+    },
+    {
+      "input": "click button",
+      "results": [
+        {
+          "original": "click button",
+          "normalized": "click button",
+          "intent": "click",
+          "target": "button",
+          "confidence": 0.95,
+          "action": "pass_to_intent_engine",
+          "reason": "direct"
+        }
+      ]
+    },
+    {
+      "input": "clik button",
+      "results": [
+        {
+          "original": "clik button",
+          "normalized": "clik button",
+          "intent": "click",
+          "target": "button",
+          "confidence": 0.9,
+          "action": "pass_to_intent_engine",
+          "reason": "fuzzy"
+        }
+      ]
+    },
+    {
+      "input": "click",
+      "results": [
+        {
+          "original": "click",
+          "normalized": "click",
+          "intent": "click",
+          "target": "",
+          "confidence": 0.95,
+          "action": "clarify",
+          "reason": "Kis par click karun?"
+        }
+      ]
+    },
+    {
+      "input": "open",
+      "results": [
+        {
+          "original": "open",
+          "normalized": "open",
+          "intent": "open",
+          "target": "",
+          "confidence": 0.95,
+          "action": "clarify",
+          "reason": "Kya open karun?"
+        }
+      ]
+    },
+    {
+      "input": "search",
+      "results": [
+        {
+          "original": "search",
+          "normalized": "search",
+          "intent": "search",
+          "target": "",
+          "confidence": 0.95,
+          "action": "clarify",
+          "reason": "Kya search karun?"
+        }
+      ]
+    },
+    {
+      "input": "mid",
+      "results": [
+        {
+          "original": "mid",
+          "normalized": "mid",
+          "intent": "unknown",
+          "target": "",
+          "confidence": 0.0,
+          "action": "clarify",
+          "reason": "unknown_intent"
+        }
+      ]
+    },
+    {
+      "input": "",
+      "results": [
+        {
+          "original": "",
+          "normalized": "",
+          "intent": "unknown",
+          "target": "",
+          "confidence": 0.0,
+          "action": "clarify",
+          "reason": "empty_input"
+        }
+      ]
+    },
+    {
+      "input": "calculator kholo aur notepad kholo",
+      "results": [
+        {
+          "original": "calculator kholo",
+          "normalized": "calculator kholo",
+          "intent": "open",
+          "target": "calculator",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        },
+        {
+          "original": "notepad kholo",
+          "normalized": "notepad kholo",
+          "intent": "open",
+          "target": "notepad",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "chrome kholo aur youtube kholo",
+      "results": [
+        {
+          "original": "chrome kholo",
+          "normalized": "chrome kholo",
+          "intent": "open",
+          "target": "chrome",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        },
+        {
+          "original": "youtube kholo",
+          "normalized": "youtube kholo",
+          "intent": "open",
+          "target": "youtube",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "calculator kholo phir chrome kholo",
+      "results": [
+        {
+          "original": "calculator kholo",
+          "normalized": "calculator kholo",
+          "intent": "open",
+          "target": "calculator",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        },
+        {
+          "original": "chrome kholo",
+          "normalized": "chrome kholo",
+          "intent": "open",
+          "target": "chrome",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "chrome open then youtube open",
+      "results": [
+        {
+          "original": "chrome open",
+          "normalized": "chrome open",
+          "intent": "open",
+          "target": "chrome",
+          "confidence": 0.91,
+          "action": "pass_to_intent_engine",
+          "reason": "reversed_open"
+        },
+        {
+          "original": "youtube open",
+          "normalized": "youtube open",
+          "intent": "open",
+          "target": "youtube",
+          "confidence": 0.91,
+          "action": "pass_to_intent_engine",
+          "reason": "reversed_open"
+        }
+      ]
+    },
+    {
+      "input": "open calculator and open notepad",
+      "results": [
+        {
+          "original": "open calculator",
+          "normalized": "open calculator",
+          "intent": "open",
+          "target": "calculator",
+          "confidence": 0.95,
+          "action": "pass_to_intent_engine",
+          "reason": "direct"
+        },
+        {
+          "original": "open notepad",
+          "normalized": "open notepad",
+          "intent": "open",
+          "target": "notepad",
+          "confidence": 0.95,
+          "action": "pass_to_intent_engine",
+          "reason": "direct"
+        }
+      ]
+    },
+    {
+      "input": "calculator kholo aur mid",
+      "results": [
+        {
+          "original": "calculator kholo aur mid",
+          "normalized": "calculator kholo aur mid",
+          "intent": "multi_command",
+          "target": "",
+          "confidence": 0.0,
+          "action": "clarify",
+          "reason": "multi_command_contains_ambiguous_step"
+        }
+      ]
+    },
+    {
+      "input": "youtube search karo aur chrome kholo",
+      "results": [
+        {
+          "original": "youtube search karo",
+          "normalized": "youtube search karo",
+          "intent": "search",
+          "target": "youtube",
+          "confidence": 0.93,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_search"
+        },
+        {
+          "original": "chrome kholo",
+          "normalized": "chrome kholo",
+          "intent": "open",
+          "target": "chrome",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    }
+  ]
+}

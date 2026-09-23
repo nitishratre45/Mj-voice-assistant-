@@ -1,0 +1,227 @@
+{
+  "last_health_check": {
+    "timestamp": "2026-08-25T01:14:33",
+    "python_files": 80,
+    "syntax_failures": [
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\add_live_web.py",
+        "error": "invalid non-printable character U+FEFF (add_live_web.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\add_page_cleaner.py",
+        "error": "invalid non-printable character U+FEFF (add_page_cleaner.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\app_launcher.py",
+        "error": "invalid non-printable character U+FEFF (app_launcher.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\app_launcher_backup.py",
+        "error": "invalid non-printable character U+FEFF (app_launcher_backup.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\app_launcher_before_knowledge.py",
+        "error": "invalid non-printable character U+FEFF (app_launcher_before_knowledge.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\app_launcher_working.py",
+        "error": "invalid non-printable character U+FEFF (app_launcher_working.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\brain.py",
+        "error": "invalid non-printable character U+FEFF (brain.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\brain_backup.py",
+        "error": "invalid non-printable character U+FEFF (brain_backup.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\brain_backup_before_unified_v2.py",
+        "error": "invalid non-printable character U+FEFF (brain_backup_before_unified_v2.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\brain_core.py",
+        "error": "invalid non-printable character U+FEFF (brain_core.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\brain_working.py",
+        "error": "invalid non-printable character U+FEFF (brain_working.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\config.py",
+        "error": "invalid non-printable character U+FEFF (config.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\connect_article_intelligence.py",
+        "error": "invalid non-printable character U+FEFF (connect_article_intelligence.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\executor.py",
+        "error": "invalid non-printable character U+FEFF (executor.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\install_article_extractor.py",
+        "error": "invalid non-printable character U+FEFF (install_article_extractor.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\install_article_intelligence.py",
+        "error": "invalid non-printable character U+FEFF (install_article_intelligence.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\intent_engine.py",
+        "error": "invalid non-printable character U+FEFF (intent_engine.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\intent_engine_working.py",
+        "error": "invalid non-printable character U+FEFF (intent_engine_working.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\listener.py",
+        "error": "invalid non-printable character U+FEFF (listener.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\mj.py",
+        "error": "invalid non-printable character U+FEFF (mj.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\mj_ai_core.py",
+        "error": "invalid non-printable character U+FEFF (mj_ai_core.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\mj_knowledge.py",
+        "error": "invalid non-printable character U+FEFF (mj_knowledge.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\mj_knowledge_backup_final.py",
+        "error": "invalid non-printable character U+FEFF (mj_knowledge_backup_final.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\mj_knowledge_backup_v3.py",
+        "error": "invalid non-printable character U+FEFF (mj_knowledge_backup_v3.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\mj_v6_intelligence.py",
+        "error": "invalid non-printable character U+FEFF (mj_v6_intelligence.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\mj_v7_intelligence.py",
+        "error": "invalid non-printable character U+FEFF (mj_v7_intelligence.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\mj_v8_agent_core.py",
+        "error": "invalid non-printable character U+FEFF (mj_v8_agent_core.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\mj_web.py",
+        "error": "invalid non-printable character U+FEFF (mj_web.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\patch_fast_voice_v1.py",
+        "error": "invalid non-printable character U+FEFF (patch_fast_voice_v1.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\patch_fast_voice_v2.py",
+        "error": "invalid non-printable character U+FEFF (patch_fast_voice_v2.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\patch_v8_1_parser.py",
+        "error": "invalid non-printable character U+FEFF (patch_v8_1_parser.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\patch_v8_runtime.py",
+        "error": "invalid non-printable character U+FEFF (patch_v8_runtime.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\patch_v8_runtime_v2.py",
+        "error": "invalid non-printable character U+FEFF (patch_v8_runtime_v2.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\patch_v8_runtime_v3.py",
+        "error": "invalid non-printable character U+FEFF (patch_v8_runtime_v3.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\patch_v8_runtime_v4.py",
+        "error": "invalid non-printable character U+FEFF (patch_v8_runtime_v4.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\repair_answer.py",
+        "error": "invalid non-printable character U+FEFF (repair_answer.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\repair_answer_bridge.py",
+        "error": "invalid non-printable character U+FEFF (repair_answer_bridge.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\repair_answer_engine.py",
+        "error": "invalid non-printable character U+FEFF (repair_answer_engine.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\repair_article_extractor.py",
+        "error": "invalid non-printable character U+FEFF (repair_article_extractor.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\repair_brain.py",
+        "error": "invalid non-printable character U+FEFF (repair_brain.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\repair_cleaner.py",
+        "error": "invalid non-printable character U+FEFF (repair_cleaner.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\repair_enrich_exact.py",
+        "error": "invalid non-printable character U+FEFF (repair_enrich_exact.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\repair_unified.py",
+        "error": "invalid non-printable character U+FEFF (repair_unified.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\repair_unified_web.py",
+        "error": "invalid non-printable character U+FEFF (repair_unified_web.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\repair_web.py",
+        "error": "invalid non-printable character U+FEFF (repair_web.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\screen_agent.py",
+        "error": "invalid non-printable character U+FEFF (screen_agent.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\screen_agent_WORKING_BACKUP.py",
+        "error": "invalid non-printable character U+FEFF (screen_agent_WORKING_BACKUP.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\screen_reader.py",
+        "error": "invalid non-printable character U+FEFF (screen_reader.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\screen_vision.py",
+        "error": "invalid non-printable character U+FEFF (screen_vision.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\test_tilak.py",
+        "error": "invalid non-printable character U+FEFF (test_tilak.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\voice\\listener.py",
+        "error": "invalid non-printable character U+FEFF (listener.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\voice\\speaker.py",
+        "error": "invalid non-printable character U+FEFF (speaker.py, line 1)"
+      },
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\voice\\speaker_WORKING_BACKUP.py",
+        "error": "invalid non-printable character U+FEFF (speaker_WORKING_BACKUP.py, line 1)"
+      }
+    ],
+    "compile_failures": [
+      {
+        "file": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\brain.py",
+        "error": "  File \"C:\\Users\\Nitish\\OneDrive\\\\u30c9\\u30ad\\u30e5\\u30e1\\u30f3\\u30c8\\Desktop\\MJVOICE\\brain.py\", line 1879\n    def search_live_web_for_mj(\n    ^^^\nSyntaxError: invalid syntax\n"
+      }
+    ],
+    "healthy": false
+  }
+}

@@ -1,0 +1,39 @@
+MJVOICE — VOICE LISTENER FIX
+
+Replace ONLY:
+    voice/listener.py
+
+Do NOT change:
+    mj.py
+    brain.py
+    memory.py
+    knowledge.py
+    config.py
+
+Before replacing, make a backup:
+    listener_backup.py
+
+Then run:
+    python .\mj.py
+
+Test:
+    MJ
+    -> Haan.
+
+    YouTube kholo
+    -> YouTube should open.
+
+    MJ
+    Google kholo
+    -> Google should open.
+
+The listener now:
+- waits longer for speech
+- uses adaptive microphone threshold
+- keeps a small pre-roll
+- allows 4 seconds to start speaking
+- waits for natural silence
+- uses stronger Whisper decoding
+- supports Hindi/Hinglish/English
+- reduces repeated Whisper hallucinations
+- waits before listening after MJ speaks

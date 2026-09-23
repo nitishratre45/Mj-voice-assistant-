@@ -1,0 +1,24 @@
+{
+  "version": "V6",
+  "timestamp": "2026-08-25T10:12:39",
+  "target": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\autonomous_v25_14.py",
+  "candidate": {
+    "type": "Return",
+    "line": 867
+  },
+  "transaction": {
+    "success": true,
+    "changed": false,
+    "rolled_back": false,
+    "backup": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\data\\self_update_backups\\v6_transaction_20260825_101238_426218\\autonomous_v25_14.py"
+  },
+  "final_health": {
+    "healthy": false,
+    "broken": [
+      {
+        "file": "data\\self_update_backups\\checkpoint_20260825_093437\\mj_second_watchdog.py",
+        "error": "invalid non-printable character U+FEFF (mj_second_watchdog.py, line 1)"
+      }
+    ]
+  }
+}

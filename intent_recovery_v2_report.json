@@ -1,0 +1,320 @@
+{
+  "version": "INTENT_RECOVERY_V2",
+  "timestamp": "2026-08-25T11:43:50",
+  "total_inputs": 20,
+  "safe_results": 18,
+  "clarifications": 5,
+  "tests": [
+    {
+      "input": "calculator kholo",
+      "results": [
+        {
+          "original": "calculator kholo",
+          "normalized": "calculator kholo",
+          "intent": "open",
+          "target": "calculator",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "notepad kholo",
+      "results": [
+        {
+          "original": "notepad kholo",
+          "normalized": "notepad kholo",
+          "intent": "open",
+          "target": "notepad",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "chrome kholo",
+      "results": [
+        {
+          "original": "chrome kholo",
+          "normalized": "chrome kholo",
+          "intent": "open",
+          "target": "chrome",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "calculator kholo aur notepad kholo",
+      "results": [
+        {
+          "original": "calculator kholo",
+          "normalized": "calculator kholo",
+          "intent": "open",
+          "target": "calculator",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        },
+        {
+          "original": "notepad kholo",
+          "normalized": "notepad kholo",
+          "intent": "open",
+          "target": "notepad",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "chrome kholo aur youtube kholo",
+      "results": [
+        {
+          "original": "chrome kholo",
+          "normalized": "chrome kholo",
+          "intent": "open",
+          "target": "chrome",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        },
+        {
+          "original": "youtube kholo",
+          "normalized": "youtube kholo",
+          "intent": "open",
+          "target": "youtube",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "calculator open",
+      "results": [
+        {
+          "original": "calculator open",
+          "normalized": "calculator open",
+          "intent": "unknown",
+          "target": "",
+          "confidence": 0.0,
+          "action": "clarify",
+          "reason": "unknown_intent"
+        }
+      ]
+    },
+    {
+      "input": "open calculator",
+      "results": [
+        {
+          "original": "open calculator",
+          "normalized": "open calculator",
+          "intent": "open",
+          "target": "calculator",
+          "confidence": 0.95,
+          "action": "pass_to_intent_engine",
+          "reason": "direct_or_fuzzy"
+        }
+      ]
+    },
+    {
+      "input": "open chrome",
+      "results": [
+        {
+          "original": "open chrome",
+          "normalized": "open chrome",
+          "intent": "open",
+          "target": "chrome",
+          "confidence": 0.95,
+          "action": "pass_to_intent_engine",
+          "reason": "direct_or_fuzzy"
+        }
+      ]
+    },
+    {
+      "input": "search tilak varma",
+      "results": [
+        {
+          "original": "search tilak varma",
+          "normalized": "search tilak varma",
+          "intent": "search",
+          "target": "tilak varma",
+          "confidence": 0.95,
+          "action": "pass_to_intent_engine",
+          "reason": "direct_or_fuzzy"
+        }
+      ]
+    },
+    {
+      "input": "tilak varma search karo",
+      "results": [
+        {
+          "original": "tilak varma search karo",
+          "normalized": "tilak varma search karo",
+          "intent": "search",
+          "target": "tilak varma",
+          "confidence": 0.92,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_search"
+        }
+      ]
+    },
+    {
+      "input": "google kholo",
+      "results": [
+        {
+          "original": "google kholo",
+          "normalized": "google kholo",
+          "intent": "open",
+          "target": "google",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "google band karo",
+      "results": [
+        {
+          "original": "google band karo",
+          "normalized": "google band karo",
+          "intent": "close",
+          "target": "google",
+          "confidence": 0.92,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_close"
+        }
+      ]
+    },
+    {
+      "input": "click button",
+      "results": [
+        {
+          "original": "click button",
+          "normalized": "click button",
+          "intent": "click",
+          "target": "button",
+          "confidence": 0.95,
+          "action": "pass_to_intent_engine",
+          "reason": "direct_or_fuzzy"
+        }
+      ]
+    },
+    {
+      "input": "clik button",
+      "results": [
+        {
+          "original": "clik button",
+          "normalized": "clik button",
+          "intent": "click",
+          "target": "button",
+          "confidence": 0.9,
+          "action": "pass_to_intent_engine",
+          "reason": "direct_or_fuzzy"
+        }
+      ]
+    },
+    {
+      "input": "click",
+      "results": [
+        {
+          "original": "click",
+          "normalized": "click",
+          "intent": "click",
+          "target": "",
+          "confidence": 0.95,
+          "action": "clarify",
+          "reason": "Kis par click karun?"
+        }
+      ]
+    },
+    {
+      "input": "open",
+      "results": [
+        {
+          "original": "open",
+          "normalized": "open",
+          "intent": "open",
+          "target": "",
+          "confidence": 0.95,
+          "action": "clarify",
+          "reason": "Kya open karun?"
+        }
+      ]
+    },
+    {
+      "input": "mid",
+      "results": [
+        {
+          "original": "mid",
+          "normalized": "mid",
+          "intent": "unknown",
+          "target": "",
+          "confidence": 0.0,
+          "action": "clarify",
+          "reason": "unknown_intent"
+        }
+      ]
+    },
+    {
+      "input": "",
+      "results": [
+        {
+          "original": "",
+          "normalized": "",
+          "intent": "unknown",
+          "target": "",
+          "confidence": 0.0,
+          "action": "clarify",
+          "reason": "empty_input"
+        }
+      ]
+    },
+    {
+      "input": "calculator kholo phir chrome kholo",
+      "results": [
+        {
+          "original": "calculator kholo",
+          "normalized": "calculator kholo",
+          "intent": "open",
+          "target": "calculator",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        },
+        {
+          "original": "chrome kholo",
+          "normalized": "chrome kholo",
+          "intent": "open",
+          "target": "chrome",
+          "confidence": 0.94,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_open"
+        }
+      ]
+    },
+    {
+      "input": "youtube search karo",
+      "results": [
+        {
+          "original": "youtube search karo",
+          "normalized": "youtube search karo",
+          "intent": "search",
+          "target": "youtube",
+          "confidence": 0.92,
+          "action": "pass_to_intent_engine",
+          "reason": "hinglish_search"
+        }
+      ]
+    }
+  ],
+  "source_rewrite": false,
+  "automatic_delete": false,
+  "automatic_merge": false,
+  "automatic_overwrite": false
+}

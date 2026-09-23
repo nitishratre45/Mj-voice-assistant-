@@ -1,0 +1,238 @@
+{
+  "version": "V5",
+  "timestamp": "2026-08-25T10:11:06",
+  "target": "C:\\Users\\Nitish\\OneDrive\\ドキュメント\\Desktop\\MJVOICE\\autonomous_v25_14.py",
+  "function": {
+    "name": "find_best_result",
+    "start": 429,
+    "end": 980
+  },
+  "candidates": [
+    {
+      "candidate": {
+        "type": "Return",
+        "start": 867,
+        "end": 867,
+        "lines": 1
+      },
+      "block_type": "Return",
+      "block_start": 867,
+      "block_end": 867,
+      "dependencies": {
+        "block_loaded": [],
+        "block_assigned": [],
+        "external_names": [],
+        "function_arguments": [
+          "data",
+          "query",
+          "self"
+        ],
+        "function_locals": [
+          "blocked",
+          "blocked_fallback",
+          "candidates",
+          "center_x",
+          "center_y",
+          "combined_text",
+          "combined_words",
+          "compact",
+          "confidence",
+          "dx",
+          "dy",
+          "fallback_items",
+          "fallback_score",
+          "item",
+          "ix",
+          "iy",
+          "left",
+          "left_matches",
+          "matched",
+          "max_x",
+          "max_y",
+          "metadata",
+          "metadata_count",
+          "min_x",
+          "min_y",
+          "normalized",
+          "quality",
+          "query",
+          "query_words",
+          "rank",
+          "raw",
+          "right",
+          "right_matches",
+          "score",
+          "text",
+          "virtual_item",
+          "w",
+          "word",
+          "words",
+          "x",
+          "y"
+        ]
+      },
+      "safety": {
+        "score": 100,
+        "reasons": [
+          "No immediate structural hazard detected."
+        ],
+        "level": "HIGH"
+      },
+      "status": "ANALYZED"
+    },
+    {
+      "candidate": {
+        "type": "Return",
+        "start": 952,
+        "end": 952,
+        "lines": 1
+      },
+      "block_type": "Return",
+      "block_start": 952,
+      "block_end": 952,
+      "dependencies": {
+        "block_loaded": [
+          "quality"
+        ],
+        "block_assigned": [],
+        "external_names": [
+          "quality"
+        ],
+        "function_arguments": [
+          "data",
+          "query",
+          "self"
+        ],
+        "function_locals": [
+          "blocked",
+          "blocked_fallback",
+          "candidates",
+          "center_x",
+          "center_y",
+          "combined_text",
+          "combined_words",
+          "compact",
+          "confidence",
+          "dx",
+          "dy",
+          "fallback_items",
+          "fallback_score",
+          "item",
+          "ix",
+          "iy",
+          "left",
+          "left_matches",
+          "matched",
+          "max_x",
+          "max_y",
+          "metadata",
+          "metadata_count",
+          "min_x",
+          "min_y",
+          "normalized",
+          "quality",
+          "query",
+          "query_words",
+          "rank",
+          "raw",
+          "right",
+          "right_matches",
+          "score",
+          "text",
+          "virtual_item",
+          "w",
+          "word",
+          "words",
+          "x",
+          "y"
+        ]
+      },
+      "safety": {
+        "score": 100,
+        "reasons": [
+          "No immediate structural hazard detected."
+        ],
+        "level": "HIGH"
+      },
+      "status": "ANALYZED"
+    },
+    {
+      "candidate": {
+        "type": "Return",
+        "start": 980,
+        "end": 980,
+        "lines": 1
+      },
+      "block_type": "Return",
+      "block_start": 980,
+      "block_end": 980,
+      "dependencies": {
+        "block_loaded": [
+          "candidates"
+        ],
+        "block_assigned": [],
+        "external_names": [
+          "candidates"
+        ],
+        "function_arguments": [
+          "data",
+          "query",
+          "self"
+        ],
+        "function_locals": [
+          "blocked",
+          "blocked_fallback",
+          "candidates",
+          "center_x",
+          "center_y",
+          "combined_text",
+          "combined_words",
+          "compact",
+          "confidence",
+          "dx",
+          "dy",
+          "fallback_items",
+          "fallback_score",
+          "item",
+          "ix",
+          "iy",
+          "left",
+          "left_matches",
+          "matched",
+          "max_x",
+          "max_y",
+          "metadata",
+          "metadata_count",
+          "min_x",
+          "min_y",
+          "normalized",
+          "quality",
+          "query",
+          "query_words",
+          "rank",
+          "raw",
+          "right",
+          "right_matches",
+          "score",
+          "text",
+          "virtual_item",
+          "w",
+          "word",
+          "words",
+          "x",
+          "y"
+        ]
+      },
+      "safety": {
+        "score": 100,
+        "reasons": [
+          "No immediate structural hazard detected."
+        ],
+        "level": "HIGH"
+      },
+      "status": "ANALYZED"
+    }
+  ],
+  "source_rewrite": false,
+  "status": "ANALYSIS_ONLY"
+}
