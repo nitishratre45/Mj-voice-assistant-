@@ -2,14 +2,14 @@ import time
 
 from config import STARTUP_GREETING, WAKE_REPLY
 
-from voice.detector import (
+from detector import (
     contains_wake_word,
     detect_language,
     remove_wake_word,
 )
 
-from voice.listener import VoiceListener
-from voice.speaker import Speaker
+from listener import VoiceListener
+from speaker import Speaker
 
 # IMPORTANT:
 # MJBrain ONLY comes from brain_core.py.
