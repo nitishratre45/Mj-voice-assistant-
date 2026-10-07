@@ -240,6 +240,8 @@ class AppLauncher:
             'calculator': 'calc.exe',
             'notepad': 'notepad.exe',
             'paint': 'mspaint.exe',
+            'edge': 'msedge.exe',
+            'firefox': 'firefox.exe',
 
             'whatsapp':
                 'start shell:AppsFolder\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App',
